@@ -1,2 +1,4 @@
 # hello-world
-Just Anothe Repository
+Just Another Repository
+
+Learning GIT.
